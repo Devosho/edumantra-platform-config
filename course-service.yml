@@ -5,7 +5,7 @@ spring:
     password: Rania@01
     driver-class-name: com.mysql.cj.jdbc.Driver
 
-   jpa:
+  jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
     generate-ddl: true
     hibernate:
